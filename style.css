@@ -290,3 +290,8 @@ h1 {
 .top-menu ul li a:hover {
     color: #555;
 }
+
+.link-pagina-inicial{
+    text-decoration: none;
+    color: black;
+}
